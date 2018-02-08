@@ -9,3 +9,5 @@ SHUKR,Mecca,1,0,0,1,1,2,2,1,1,0,0,1,1,0,0,6,4,17,19,0,0,1,0,0,0,,,Ikhlas,Mehmed 
 IKHLAS,Mecca,1,0,0,1,1,2,2,1,1,0,0,1,1,0,0,4,6,19,17,0,0,1,0,0,0,,,Shukr,,David Ciombor,Akib Malik,0,,,Shukr,2,0,1,1
 IKHLAS,Mecca,2,0,1,0,0,1,3,0,1,0,0,1,2,0,0,18,4,16,12,0,1,0,0,0,0,,Emaan,,,David Ciombor,,0,,,Emaan,0,1,1,2
 EMAAN,Mecca,2,1,0,0,2,3,1,1,2,0,0,0,1,0,0,4,18,12,16,1,0,0,0,0,0,Ikhlas,,,Aazar Zafar,,Hany Soliman,0,,,Ikhlas,1,2,0,1
+YAQEEN,Mecca,2,0,1,0,0,1,3,1,0,0,0,3,0,0,0,2,2,19,16,0,1,0,0,0,0,,Shukr,,,Azhar Kalair,,0,,,Shukr,0,1,2,1
+SHUKR,Mecca,2,1,0,0,2,3,1,3,0,0,0,1,0,0,0,2,2,16,19,1,0,0,0,0,0,Yaqeen,,,Humaiz Shahid,,Maaz Haq,0,,,Yaqeen,2,1,0,1
