@@ -11,3 +11,7 @@ IKHLAS,Mecca,2,0,1,0,0,1,3,0,1,0,0,1,2,0,0,18,4,16,12,0,1,0,0,0,0,,Emaan,,,David
 EMAAN,Mecca,2,1,0,0,2,3,1,1,2,0,0,0,1,0,0,4,18,12,16,1,0,0,0,0,0,Ikhlas,,,Aazar Zafar,,Hany Soliman,0,,,Ikhlas,1,2,0,1
 YAQEEN,Mecca,2,0,1,0,0,1,3,1,0,0,0,3,0,0,0,2,2,19,16,0,1,0,0,0,0,,Shukr,,,Azhar Kalair,,0,,,Shukr,0,1,2,1
 SHUKR,Mecca,2,1,0,0,2,3,1,3,0,0,0,1,0,0,0,2,2,16,19,1,0,0,0,0,0,Yaqeen,,,Humaiz Shahid,,Maaz Haq,0,,,Yaqeen,2,1,0,1
+RIDHA,Medina,2,0,1,0,0,0,1,0,0,0,0,0,1,0,0,4,4,20,20,0,0,0,0,1,0,,Ihsan,,,,Ahmad Ibrahim,2,Ihsan,,Ihsan,0,0,1,0
+IHSAN,Medina,2,1,0,0,2,1,0,0,1,0,0,0,0,0,0,4,4,20,20,0,0,0,1,0,0,Ridha,,,Ijaz Chaudhry,Kaz Akbar,,1,,Ridha,Ridha,1,0,0,0
+SABR,Medina,2,0,1,0,0,0,2,0,0,0,0,1,1,0,0,6,6,16,11,0,0,0,0,1,0,,Haya,,,,Ibad Khan,2,Haya,,Haya,0,0,0,2
+HAYA,Medina,2,1,0,0,2,2,0,1,1,0,0,0,0,0,0,6,6,11,16,0,0,0,1,0,0,Sabr,,,Farooq Sani,Khalid Mufti,,1,,Sabr,Sabr,0,2,0,0
