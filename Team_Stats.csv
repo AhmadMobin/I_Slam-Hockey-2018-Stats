@@ -41,3 +41,11 @@ RIDHA,Medina,5,1,0,0,2,6,1,5,0,1,0,1,0,0,0,6,4,13,8,1,0,0,0,0,0,Yaqeen,,,Ahmad I
 YAQEEN,Mecca,5,0,1,0,0,1,6,1,0,0,0,5,0,1,0,4,6,8,13,0,0,0,0,1,0,,Ridha,,,,,0,,,Ridha,0,1,4,2
 IHSAN,Medina,5,0,1,0,0,3,5,2,0,1,0,4,1,0,0,6,2,18,15,0,1,0,0,0,0,,Emaan,,,,Ijaz Chaudhry,0,,,Emaan,2,1,2,3
 EMAAN,Mecca,5,1,0,0,2,5,3,4,1,0,0,2,0,1,0,2,6,15,18,0,0,0,1,0,0,Ihsan,,,Konain Saiyed,Hany Soliman,,0,,,Ihsan,2,3,2,1
+SABR,Medina,6,0,0,1,1,3,3,3,0,0,0,3,0,0,0,14,10,12,19,0,0,1,0,0,0,,,Emaan,Yousaf Sowdagar,,Waqar Khan,0,,,Emaan,1,2,1,2
+EMAAN,Mecca,6,0,0,1,1,3,3,3,0,0,0,3,0,0,0,10,14,19,12,0,0,0,0,0,1,,,Sabr,,Mohammad Hamoud,,0,,,Sabr,1,2,1,2
+RIDHA,Medina,6,0,0,1,1,1,1,1,0,0,0,0,1,0,0,4,14,18,11,0,0,1,0,0,0,,,Shukr,,,Zaqi Ahmed,0,,,Shukr,1,0,0,1
+SHUKR,Mecca,6,0,0,1,1,1,1,0,1,0,0,1,0,0,0,14,4,11,18,0,0,0,0,0,1,,,Ridha,Fahad Mohammad,Humaiz Shahid,,0,,,Ridha,0,1,1,0
+IHSAN,Medina,6,0,1,0,0,2,4,1,1,0,0,4,0,0,0,2,8,14,7,0,1,0,0,0,0,,Yaqeen,,,,Ijaz Chaudhry,,,,Yaqeen,1,1,2,2
+YAQEEN,Mecca,6,1,0,0,2,4,2,4,0,0,0,1,1,0,0,8,2,7,14,0,0,0,1,0,0,Ihsan,,,Shoaib Bhatti,Ammer Khawaja,,0,,,Ihsan,2,2,1,1
+HAYA,Medina,6,0,1,0,0,2,3,2,0,0,0,3,0,0,0,4,4,14,13,0,1,0,0,0,0,,Ikhlas,,Nadeem Faqiri,,Salman Alvi,0,,,Ikhlas,1,1,1,2
+IKHLAS,Mecca,6,1,0,0,2,3,2,3,0,0,0,2,0,0,0,4,4,13,14,0,0,0,1,0,0,Haya,,,,Humza Ali,,0,,,Haya,1,2,1,1
