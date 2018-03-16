@@ -49,3 +49,13 @@ IHSAN,Medina,6,0,1,0,0,2,4,1,1,0,0,4,0,0,0,2,8,14,7,0,1,0,0,0,0,,Yaqeen,,,,Ijaz 
 YAQEEN,Mecca,6,1,0,0,2,4,2,4,0,0,0,1,1,0,0,8,2,7,14,0,0,0,1,0,0,Ihsan,,,Shoaib Bhatti,Ammer Khawaja,,0,,,Ihsan,2,2,1,1
 HAYA,Medina,6,0,1,0,0,2,3,2,0,0,0,3,0,0,0,4,4,14,13,0,1,0,0,0,0,,Ikhlas,,Nadeem Faqiri,,Salman Alvi,0,,,Ikhlas,1,1,1,2
 IKHLAS,Mecca,6,1,0,0,2,3,2,3,0,0,0,2,0,0,0,4,4,13,14,0,0,0,1,0,0,Haya,,,,Humza Ali,,0,,,Haya,1,2,1,1
+SABR,Medina,7,0,0,1,1,1,1,1,0,0,0,1,0,0,0,6,2,18,14,0,0,1,0,0,0,,,Yaqeen,,Ibrahim Khan,,0,,,Yaqeen,1,0,1,0
+YAQEEN,Mecca,7,0,0,1,1,1,1,1,0,0,0,1,0,0,0,2,6,14,18,0,0,0,0,0,1,,,Sabr,Ibrahim Butt,,Ibad Khan,0,,,Sabr,1,0,1,0
+HAYA,Medina,7,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2,7,9,0,0,1,0,0,0,,,Emaan,,Humza Ali,Khalid Mufti,1,,Emaan,Emaan,0,0,0,0
+EMAAN,Mecca,7,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2,9,7,0,0,0,0,0,1,,,Haya,Ahmad Kaiss,,,1,,Haya,Haya,0,0,0,0
+HAYA,Medina,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,REMOVE,,,2,Emaan,,Emaan,0,0,0,0
+EMAAN,Mecca,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,REMOVE,,,2,Haya,,Haya,0,0,0,0
+RIDHA,Medina,7,0,0,1,1,3,3,3,0,0,0,2,1,0,0,20,6,22,15,0,0,1,0,0,0,,,Ikhlas,,Shaukat Khan,,0,,,Ikhlas,1,2,1,2
+IKHLAS,Mecca,7,0,0,1,1,3,3,2,1,0,0,3,0,0,0,6,20,15,22,0,0,0,0,0,1,,,Ridha,Akib Malik,,Wakaas Khan,0,,,Ridha,1,2,1,2
+IHSAN,Medina,7,0,1,0,0,1,2,1,0,0,0,2,0,0,0,0,0,15,11,0,1,0,0,0,0,,Shukr,,,Ijaz Chaudhry,,0,,,Shukr,0,1,2,0
+SHUKR,Mecca,7,1,0,0,2,2,1,2,0,0,0,1,0,0,0,0,0,11,15,0,0,0,1,0,0,Ihsan,,,Emad Hussain,,Fahad Mohammad,0,,,Ihsan,2,0,0,1
